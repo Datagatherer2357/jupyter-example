@@ -1,3 +1,3 @@
 # jupyter-example
 
-Basic Jupyter programmes
+Basic Jupyter programs
