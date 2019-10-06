@@ -1,3 +1,5 @@
 # jupyter-example
 
-Basic Jupyter programs
+Collection of succinct Jupyter programs
+
+Works ongoing/progressive
