@@ -1,5 +1,5 @@
 # jupyter-example
 
-Collection of succinct Jupyter programs
+Collection of Jupyter programs, from basic scripts to advanced machine learning applications 
 
 Works ongoing/progressive
